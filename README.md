@@ -1,2 +1,4 @@
 # Risebet
-The web application for 
+Будем хранить код в папке apps
+
+В папке etc будут прочие файлы типа requirements и всяких докерфайлов
